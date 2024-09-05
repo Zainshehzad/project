@@ -7,7 +7,8 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-          “M ZAIN SHAHZAD ADDRESS ABU ZABI PALCE CHACK 56 P RAHIM YAR  KAHN AND PHONE NUMBER 03251540140.
+          “M ZAIN SHAHZAD ADDRESS ABU ZABI PALCE CHACK 56 P RAHIM YAR  KAHN AND PHONE NUMBER 03251540140 my 
+          name zain shahzad .
         </p>
       </blockquote>
       <figcaption className="font-medium">
