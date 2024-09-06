@@ -16,7 +16,7 @@ const page = () => {
       </div>
       <div className="text-slate-700 dark:text-slate-500">
         My house is a very beautifull My house has a six bog rooms My house is situated in Geo There is a nine kichen in my house There is a also study in my room in my house
-        My house is a very neat and clean There is a beautifull gardan i anm a time outside in my house  My house is a very airy and well lighted                                                                                                           
+        My house is a very neat and clean There is a beautifull gardan i anm a time outside in my house  My house is a very airy and well lighted    my huse is a very beutifull and nice                                                                                                       
       </div>
     </figcaption>
   </div>
