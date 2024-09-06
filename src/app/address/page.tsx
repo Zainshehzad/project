@@ -8,6 +8,7 @@ const page = () => {
       <blockquote>
         <p className="text-lg font-medium">
           “M ZAIN SHAHZAD ADDRESS ABU ZABI PALCE CHACK 56 P RAHIM YAR  KAHN dari maikha wali  AND PHONE NUMBER 03251540140.
+          and rahim yar khan 
         </p>
       </blockquote>
       <figcaption className="font-medium">
